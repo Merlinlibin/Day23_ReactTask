@@ -1,3 +1,4 @@
+import React from 'react'
 import Footer from '../components/Footer';
 import Section from '../components/Section';
 import FilterMeny from '../components/FilterMeny';

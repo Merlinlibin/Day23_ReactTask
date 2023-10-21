@@ -2,6 +2,7 @@ import { useState } from "react";
 import Sale from "./Card/sale";
 import Rating from "./Card/Rating";
 import Price from "./Card/Price";
+import React from 'react';
 
 
 function Card({cart,setcart,carddetail }) {
