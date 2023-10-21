@@ -2,8 +2,8 @@ import React from 'react'
 import Footer from '../components/Footer';
 import Section from '../components/Section';
 import FilterMeny from '../components/FilterMeny';
-import Header from '../components/header';
-import NavBar from '../components/navBar';
+import Header from '../components/Header';
+import NavBar from '../components/NavBar';
 import { useState } from 'react';
 
 

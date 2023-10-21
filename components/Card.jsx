@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Sale from "./Card/sale";
+import Sale from "./Card/Sale";
 import Rating from "./Card/Rating";
 import Price from "./Card/Price";
 import React from 'react';
